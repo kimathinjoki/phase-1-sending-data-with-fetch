@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "spark",
+      "dogBreed": "retriever",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,253 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 1
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 2
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 3
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 4
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 5
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 6
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 7
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 8
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 9
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 10
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 11
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 12
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 13
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 14
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 15
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 16
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 17
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 18
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 19
+    },
+    {
+      "name": "kim",
+      "emailID": "kim@moringaschool.com",
+      "id": 20
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 21
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 22
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 23
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 24
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 25
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 26
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 27
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 28
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 29
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 30
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 31
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 32
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 33
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 34
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 35
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 36
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 37
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 38
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 39
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 40
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 41
+    },
+    {
+      "name": "undefined",
+      "emailID": "undefined",
+      "id": 42
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 43
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 44
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 45
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 46
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 47
+    },
+    {
+      "name": "undefined",
+      "email": "undefined",
+      "id": 48
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
